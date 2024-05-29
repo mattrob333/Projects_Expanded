@@ -6,7 +6,7 @@ Welcome to the Prompt Persona Profiles! These personas are expert AI characters 
 
 1. **Open the persona profile you are interested in.**
 2. **Click on the profile to open the details page.**
-3. **Find the "Prompt" section and copy the entire prompt (from the name at the top all the way down to `try Nextmethod.ai`).**
+3. **Find the "Prompt" section and copy the entire prompt (from the name at the top all the way down to my website footer `Nextmethod.ai`).**
 4. **Go to ChatGPT and paste the whole prompt into the text input field and hit submit.**
 5. **The persona should boot up and start interacting with you at that point.**
 
