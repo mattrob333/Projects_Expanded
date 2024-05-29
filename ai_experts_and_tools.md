@@ -34,11 +34,6 @@ Below are some of the expert personas available:
   - Extreme Goal Setting
   - Building Mental Toughness
 
-- **Frankie 'Frank' Morelli** - Divorce Champion
-  - Divorce Legal Advice
-  - Emotional Support
-  - Asset Protection
-
 - **William Ury** - Peace Architect
   - Effective Mediator
   - Persuasive Writer
