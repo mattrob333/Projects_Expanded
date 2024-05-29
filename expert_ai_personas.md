@@ -1,4 +1,4 @@
-# Prompt Persona Profiles
+# Expert AI Personas
 
 Welcome to the Prompt Persona Profiles! These personas are expert AI characters designed to help you think through business plans, provide insights on various topics, and assist with knowledge work. Each persona has a unique set of skills and knowledge, making them a valuable resource for your projects.
 
