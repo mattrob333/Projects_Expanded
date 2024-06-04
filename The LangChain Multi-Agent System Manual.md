@@ -1,5 +1,8 @@
 #  The LangChain Multi-Agent System Manual: A Guide for AI Developers 🤖🤖🤖
 
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/c313ae92-9db9-4ffc-ae98-97d9b27c1c8c)
+
+
 This manual provides a comprehensive guide to building sophisticated multi-agent workflows within the LangChain ecosystem. It covers foundational concepts, workflow design principles, tool integration, optimization strategies, and practical examples to empower you in creating powerful AI agents.
 
 ## 💪💪I. Introduction: The Power of AI Agents and LangChain
