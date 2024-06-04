@@ -1,4 +1,4 @@
-#  The LangChain Multi-Agent System Manual: A Guide for AI Developers 🤖🤖🤖
+#  The Flowise Multi-Agent System Manual: A Guide for Non-Coders 🤖🤖🤖
 
 ![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/c313ae92-9db9-4ffc-ae98-97d9b27c1c8c)
 
