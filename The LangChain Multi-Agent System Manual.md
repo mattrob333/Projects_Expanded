@@ -3,7 +3,7 @@
 ![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/c313ae92-9db9-4ffc-ae98-97d9b27c1c8c)
 
 
-This manual provides a comprehensive guide to building sophisticated multi-agent workflows within the LangChain ecosystem. It covers foundational concepts, workflow design principles, tool integration, optimization strategies, and practical examples to empower you in creating powerful AI agents.
+This manual provides a comprehensive guide to building sophisticated multi-agent workflows within the LangChain ecosystem using the Flowise No-code platform. It covers foundational concepts, workflow design principles, tool integration, optimization strategies, and practical examples to empower you in creating powerful AI agents.
 
 ## 💪💪I. Introduction: The Power of AI Agents and LangChain
 
@@ -146,7 +146,7 @@ In a LangGraph workflow, each **node** represents either:
 * **b. Adding and Configuring the Supervisor Agent:**  Drag a "Supervisor Agent" node onto the canvas and configure its prompt to define its role.
 * **c. Incorporating Worker Agents and Defining Their Roles:** Add "Worker Agent" nodes for each team member and use prompts to specify their tasks and responsibilities.
 * **d. Connecting Agents and Integrating Necessary Tools:**  Connect the agents with edges to define the workflow and add tool nodes to provide agents with external capabilities.
-* **e.  Testing, Debugging, and Iterating on Your Agent Team:** Test your workflow thoroughly, use LangSmith for debugging, and iterate on your design to improve performance.
+* **e. Testing, Debugging, and Iterating on Your Agent Team:** Test your workflow thoroughly, use LangSmith for debugging, and iterate on your design to improve performance.
 
 **3. Advanced Flowwise Techniques**
 
@@ -184,8 +184,6 @@ The process of designing and optimizing workflows can itself be automated using 
 * **a.  The Workflow Builder Agent:**  This agent is responsible for generating initial workflow designs based on the user's requirements and objectives.
 * **b.  The Critique Agent:**  This agent evaluates the generated workflows, identifying potential bottlenecks, inefficiencies, or areas for improvement.
 * **c.  The Revisor Agent:**  Based on the critique, this agent refines and optimizes the workflow, iterating towards a more efficient and effective solution.
-
-Okay, here is the revised section on the Flowwise Workflow Generator, using the exact prompt format you specified earlier:
 
 ## 🖨️🖨️VI.  Building a Flowwise Workflow Generator: A Case Study
 
