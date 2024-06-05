@@ -30,7 +30,7 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 5. **Annotate:**  Use our drawing tools (arrows, lines, circles) to highlight areas for improvement and add text comments directly on the screenshots.
 6. **Share:**  Instantly share annotated images with your players via email, text, or social media to reinforce coaching points and track progress.
 
-**[Insert Screenshots of the App: Video Comparison Screen, Annotation Screen]**
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/e818c6e5-b9c1-4a27-be8c-217343bd758a)
 
 **Why SwingLab?**
 
