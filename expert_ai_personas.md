@@ -1,5 +1,7 @@
 # Expert AI Personas
 
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/a3a65f97-9d6f-44d9-a69b-0d9119bb61f1)
+
 Welcome to the Prompt Persona Profiles! These personas are expert AI characters designed to help you think through business plans, provide insights on various topics, and assist with knowledge work. Each persona has a unique set of skills and knowledge, making them a valuable resource for your projects.
 
 ## How to Use the Prompt Personas
