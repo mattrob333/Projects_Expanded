@@ -42,11 +42,11 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 **Ready to Elevate Your Coaching Game?**
 
 Try ProSwingSync today and experience the future of baseball swing analysis!
-
+**LINK BELOW**
 https://a.picoapps.xyz/front-stand
 
-**Join us on GitHub!**
 
-We're actively developing ProSwingSync and welcome your feedback.  Visit our GitHub repository to explore the code, contribute ideas, and be a part of the journey:
 
-**[Link to ProSwingSync GitHub Repository]** 
+We're actively developing SwingLab and welcome your feedback.  
+
+
