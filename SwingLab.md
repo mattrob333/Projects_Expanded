@@ -1,16 +1,17 @@
-## ProSwingSync: Revolutionizing Baseball Swing Analysis
+## SwingLab: Revolutionizing Baseball Swing Analysis
 
-**[Insert Compelling Image of ProSwingSync App Logo/Hero Screen Here]**
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/c2a9286a-fe31-4162-aadc-95d6239de506)
+
 
 **Empowering Coaches, Transforming Players.** 
 
-ProSwingSync is the mobile app that simplifies swing analysis for baseball coaches at all levels.  We combine side-by-side video comparison with intuitive annotation tools to deliver a powerful coaching solution right to your fingertips.
+SwingLab is the mobile app that simplifies swing analysis for baseball coaches at all levels.  We combine side-by-side video comparison with intuitive annotation tools to deliver a powerful coaching solution right to your fingertips.
 
 **See the Difference.  Feel the Impact.**
 
 **[Insert GIF/Video Demo of ProSwingSync in Action on a Mobile Device]** 
 
-**How ProSwingSync Works:**
+**How SwingLab Works:**
 
 1. **Capture:**  Record a video of your player's swing using your mobile device. 
 2. **Compare:** Upload your video to ProSwingSync and select a professional swing from our library for side-by-side comparison (https://drive.google.com/drive/folders/1PeEuNlCuFspMNo4V1XYzahBKLL8_SYtt?usp=sharing).
