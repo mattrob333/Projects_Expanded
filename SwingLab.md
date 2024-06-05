@@ -1,6 +1,6 @@
 ## SwingLab: Revolutionizing Baseball Swing Analysis
 
-![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/c2a9286a-fe31-4162-aadc-95d6239de506)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/9a5cfedd-26ce-4e54-a92e-59eb87151e0e)
 
 
 **Empowering Coaches, Transforming Players.** 
