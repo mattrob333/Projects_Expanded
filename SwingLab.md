@@ -29,7 +29,7 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 
 **[Insert Screenshots of the App: Video Comparison Screen, Annotation Screen]**
 
-**Why ProSwingSync?**
+**Why SwingLab?**
 
 * **Intuitive Design:** No complicated software, just a user-friendly mobile experience designed for coaches on the go.
 * **Powerful Analysis:** Side-by-side comparison and precise synchronization reveal swing flaws and highlight areas for improvement. 
