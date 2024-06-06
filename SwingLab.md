@@ -14,7 +14,7 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 **How SwingLab Works:**
 
 1. **Capture:**  Record a video of your player's swing using your mobile device. 
-2. **Compare:** Upload your video to SwingLab and select a professional swing from our library for side-by-side comparison (https://drive.google.com/drive/folders/1PeEuNlCuFspMNo4V1XYzahBKLL8_SYtt?usp=sharing).
+2. **Compare:** Upload your video to SwingLab and select a professional swing from our library for side-by-side comparison.
 3. **Synchronize:** Use the intuitive timeline scrubber to align the pro swing with key stages of your player's swing:
     * **Stance**
     * **Load**
@@ -42,6 +42,10 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 **Ready to Elevate Your Coaching Game?**
 
 Try SwingLab today and experience the future of baseball swing analysis!
+
+Here is my Google drive that contains some example pro swings. For best results on the beta app below, select a few swings and download them to your device, then load them into the app along side your players swing below that. 
+
+(https://drive.google.com/drive/folders/1PeEuNlCuFspMNo4V1XYzahBKLL8_SYtt?usp=sharing)
 
 
 **LINK to Beta Version**
