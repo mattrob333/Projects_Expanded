@@ -11,7 +11,7 @@ The Artistic Construction Support Bot is a powerful tool designed to streamline 
 - **Appointment Booking:** The chatbot allows users to easily book appointments. Simply click on the "Let's Book an Appointment" button and provide the necessary information.
 - **Lead Capture:** As users interact with the bot, it collects essential information such as first name, last name, email address, phone number, and a description of the project. This data is then sent to an Airtable database where it is securely stored.
 
-![Lead Information in Airtable](path/to/image2.png)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/ccd3071f-14d2-4997-9574-05d031b25a5b)
 
 - **Comprehensive Answers:** Powered by OpenAI's assistance API, the bot is loaded with files and data about Artistic Construction. This enables it to answer questions about the company, its services, and any other relevant information accurately and efficiently.
 - **Integration with Flowise:** Built using the Flowise no-code app builder, the bot's functionality is seamlessly integrated with the backend systems, ensuring smooth operations and data management.
