@@ -61,7 +61,7 @@ Once you have all this information, respond with a message like "Thank you, some
 - **OpenAI Assistance API:** The core intelligence of the chatbot is driven by OpenAI, which enables it to understand and respond to user queries effectively.
 - **Make.com:** Connects Flowise and the OpenAI Assistant to Airtable
 
-![Flowise Backend](path/to/image6.png)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/b656a86f-4883-41d1-aedc-d52cc5296181)
 
 - **Integration with Airtable:** Make.com is used to connect OpenAI with Airtable, automating the process of lead data capture and storage.
 
