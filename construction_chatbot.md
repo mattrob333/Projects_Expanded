@@ -16,7 +16,7 @@ The Artistic Construction Support Bot is a powerful tool designed to streamline 
 - **Comprehensive Answers:** Powered by OpenAI's assistance API, the bot is loaded with files and data about Artistic Construction. This enables it to answer questions about the company, its services, and any other relevant information accurately and efficiently.
 - **Integration with Flowise:** Built using the Flowise no-code app builder, the bot's functionality is seamlessly integrated with the backend systems, ensuring smooth operations and data management.
 
-![Flowise Integration](path/to/image3.png)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/f62ff358-fe0b-4573-b41c-7f252f1bb5eb)
 
 - **Automated Lead Management:** Utilizing Make.com, the bot connects OpenAI with Airtable, automating the process of capturing and storing lead information.
 
