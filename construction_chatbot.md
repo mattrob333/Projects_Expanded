@@ -4,7 +4,7 @@
 
 The Artistic Construction Support Bot is a powerful tool designed to streamline customer interactions and improve lead management for construction contractors. Embedded directly on the Artistic Construction website, this chatbot is here to assist you with booking appointments and answering any questions you may have about our services.
 
-![Chatbot Embedded on Website](path/to/image1.png)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/7cbb2cbb-3e24-462d-bc32-bfedeff182e2)
 
 ### Key Features
 
