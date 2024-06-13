@@ -24,7 +24,7 @@ The Artistic Construction Support Bot is a powerful tool designed to streamline 
 
 1. **User Interaction:** When a user visits the Artistic Construction website, they can interact with the chatbot by clicking on the available buttons or typing their queries.
 
-![Chatbot Interaction](path/to/image4.png)
+![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/0a0e670a-28de-4097-a20d-7ee1a0747e30)
 
 2. **Data Collection:** For booking an appointment, the bot will prompt the user to provide:
    - First Name
@@ -43,6 +43,7 @@ The Artistic Construction Support Bot is a powerful tool designed to streamline 
 
 - **Flowise No-Code App Builder:** The chatbot's structure and flow are built using Flowise, a no-code app builder that allows for quick and efficient setup and customization.
 - **OpenAI Assistance API:** The core intelligence of the chatbot is driven by OpenAI, which enables it to understand and respond to user queries effectively.
+- **Make.com:** Connects Flowise and the OpenAI Assistant to Airtable
 
 ![Flowise Backend](path/to/image6.png)
 
