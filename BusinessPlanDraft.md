@@ -1,4 +1,4 @@
-
+![businessplandraft](https://github.com/mattrob333/Projects_Expanded/assets/31228129/0b8a38df-f19a-466b-9b4c-46e7853a03bf)
 
 # 🌟 Business Plan Draft 🌟
 
