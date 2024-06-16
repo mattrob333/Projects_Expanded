@@ -1,4 +1,7 @@
 # 💼 $100M Marketing Playbooks
+
+![100M_Marketing](https://github.com/mattrob333/Projects_Expanded/assets/31228129/08d2e231-9069-4a94-8d59-24dc3e0ded62)
+
 A powerful two-step workflow for generating a complete marketing and lead generation plan for your business, based on Alex Hormozi's $100M Offers and $100M Leads playbooks.
 
 ## 🎯 Overview
