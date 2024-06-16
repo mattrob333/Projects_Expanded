@@ -8,6 +8,10 @@
 
 **AI Business Audit** is a web application designed to streamline the process of evaluating business ideas. It provides users with comprehensive business plans derived from their initial ideas, enabling them to decide quickly whether to pursue or discard their concepts. This rapid assessment helps entrepreneurs focus their time and resources on the most promising opportunities.
 
+Link to app:
+
+https://a.picoapps.xyz/metal-handcrafted
+
 ### Key Features
 
 1. **Business Submission**: Enter your business idea and details.
