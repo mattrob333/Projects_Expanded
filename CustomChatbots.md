@@ -1,4 +1,4 @@
-# Welcome to the Artistic Construction Support Bot
+# Custom Chat Bots
 
 ## About the Bot
 
