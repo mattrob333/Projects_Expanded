@@ -22,8 +22,8 @@
 - 🚀 **Strategic Planning**: Receive a strategic plan to guide your next steps.
 - 💡 **Ease of Use**: Simple, intuitive interface for entering and evaluating ideas.
 
-### Example Use Case
-
+### Example Output
+```
 **Business Idea**: A mobile app for baseball coaches to compare kids' baseball swings to those of professional players.
 
 #### Business Breakdown
@@ -92,7 +92,7 @@
   - Establish a swing analysis team comprising baseball experts with in-depth knowledge of swing mechanics and techniques.
   - Allocate resources for content management, including partnerships for professional swing videos and building a proprietary database.
   - As user adoption increases, monitor app performance to identify scalability needs. Scale the technical infrastructure and resources accordingly to ensure optimal user experience.
-
+```
 ---
 
 Built by NextMethod.ai  
