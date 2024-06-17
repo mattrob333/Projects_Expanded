@@ -9,7 +9,7 @@ SwingLab is the mobile app that simplifies swing analysis for baseball coaches a
 
 **See the Difference.  Feel the Impact.**
 
-**Explainer Video**
+**Explainer Video - User flow (1 min)**
 (https://www.canva.com/design/DAGIWDob2L8/BAEHL9H3fYoCHAKZ8f6mZg/watch)
 
 **How SwingLab Works:**
