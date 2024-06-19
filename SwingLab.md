@@ -61,6 +61,7 @@ Here is my Google drive that contains some example pro swings. For best results 
 https://a.picoapps.xyz/front-stand
 
 **AI - Analysis**
+
 We use the GPT-4o model for the vision capibilities. Below is an example of an analysis given to player by the AI Swing Coach:
 
 ```
