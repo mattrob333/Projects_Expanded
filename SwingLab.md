@@ -60,7 +60,37 @@ Here is my Google drive that contains some example pro swings. For best results 
 **LINK to Beta Version**
 https://a.picoapps.xyz/front-stand
 
+**AI - Analysis**
+We use the GPT-4o model for the vision capibilities. Below is an example of an analysis given to player by the AI Swing Coach:
 
+```
+## Summary
+The comparison of the youth player's swing to the professional player's swing highlights key areas for improvement in the rotation to contact phase. The youth player needs to adjust their body alignment and limb angles to generate more power and maintain better balance throughout the swing.
+
+### Key Checkpoints
+
+#### Rotation to Contact
+- **Analysis**: The professional player's rotation to contact shows a well-coordinated movement where the hips, shoulders, and hands work in unison. The front foot is planted firmly, and the back foot rotates on the toe, indicating strong lower body involvement. The youth player's swing lacks this coordination. The youth player’s hips and shoulders are not as open, and the hands are lagging behind.
+- **Suggestion**: The youth player should focus on initiating the swing with the hips, allowing the shoulders and hands to follow. Practicing dry swings with a focus on hip rotation can help in developing this sequence.
+
+#### Limb Angles
+- **Analysis**: The professional player has a slight bend in both elbows, creating a powerful lever for the bat. The youth player, however, has more extended elbows, which can reduce power and control. The knees of the professional player are bent to provide a stable base, while the youth player’s knees appear too stiff.
+- **Suggestion**: Encourage the youth player to maintain a slight bend in the elbows and knees throughout the swing. This can be achieved through regular practice swings focusing on maintaining these angles.
+
+#### Alignment of Body Segments
+- **Analysis**: The professional player's head is steady and eyes are focused on the ball, with shoulders and hips aligned in a powerful, rotational position. The youth player's head is slightly off, and there is less alignment between the shoulders and hips.
+- **Suggestion**: The youth player should practice keeping their head steady and eyes on the ball. Drills like the "head-on-the-ball" drill can help in maintaining this focus. Additionally, working on core strength can improve the alignment of the shoulders and hips.
+
+### Drills & Exercises
+
+1. **Hip Rotation Drills**: These drills help the player learn to initiate the swing with the hips. A good drill is to place a bat on the shoulders and practice rotating the hips without swinging the bat.
+   
+2. **Tee Work with Emphasis on Limb Angles**: Set up a tee and have the youth player focus on keeping a slight bend in the elbows and knees during each swing. This helps in developing muscle memory for the correct angles.
+   
+3. **Core Strengthening Exercises**: Exercises like planks, Russian twists, and medicine ball throws can enhance core strength, leading to better alignment and power generation.
+
+Improving these aspects of the swing will help the youth player develop a more powerful and efficient swing, closer to that of the professional player. Encourage consistent practice and patience, as mastering these techniques takes time and repetition.
+```
 
 We're actively developing SwingLab and welcome your feedback.  
 
