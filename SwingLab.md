@@ -5,7 +5,7 @@
 
 **Empowering Coaches, Transforming Players.** 
 
-Link: getswinglab.com
+Link: [getswinglab.com](https://www.getswinglab.com/)
 
 SwingLab is the mobile app that simplifies swing analysis for baseball coaches at all levels.  We combine side-by-side video comparison with intuitive annotation tools to deliver a powerful coaching solution right to your fingertips.
 <br>
