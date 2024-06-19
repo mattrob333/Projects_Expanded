@@ -1,6 +1,6 @@
 ## SwingLab: Revolutionizing Baseball Swing Analysis
 
-![image](https://github.com/mattrob333/Projects_Expanded/assets/31228129/9a5cfedd-26ce-4e54-a92e-59eb87151e0e)
+![image](https://github.com/mattrob333/txt-files/blob/main/ProSwingSync%20The%20Instant%20Swing%20Coach%20(15).png?raw=true)
 
 
 **Empowering Coaches, Transforming Players.** 
