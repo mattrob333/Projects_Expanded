@@ -8,7 +8,7 @@
 - Location: Alpharetta, Georgia, United States
 - Phone: (770) 324-5168
 - Email: matt@nextmethod.ai
-- Portfolio Website: matt.nextmethod.ai
+- Portfolio Website: [matt.nextmethod.ai](https://matt.nextmethod.ai/)
 
 ## Professional Summary
 - Highly motivated and innovative entrepreneur with a passion for AI, blockchain technology, real estate, and aviation
