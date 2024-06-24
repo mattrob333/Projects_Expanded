@@ -4,7 +4,6 @@
 - Name: Matthew D. Roberson (Matt)
 - Date of Birth: 10-10-1981
 - Pilot Certification Number: 2771905
-- Social Security Number: XXX-XX-4551
 - Location: Alpharetta, Georgia, United States
 - Phone: (770) 324-5168
 - Email: matt@nextmethod.ai
