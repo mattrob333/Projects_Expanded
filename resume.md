@@ -1,6 +1,6 @@
-#Matt Roberson - Resume 
+# Matt Roberson - Resume 
 
-##Personal Information:
+## Personal Information:
 - Name: Matthew D. Roberson (Matt)
 - Date of Birth: 10-10-1981
 - Pilot Certification Number: 2771905
