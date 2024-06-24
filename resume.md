@@ -122,7 +122,7 @@
   - Contributes unique perspectives and solutions to challenges
   - May need to consciously engage in teamwork and communication to balance their natural tendency towards introspection and autonomy
 
-##Volunteer Work & Other Activities:
+## Volunteer Work & Other Activities:
 - Sandy Springs Boxing Club Youth Trainer
 - Alpharetta Youth Baseball Association Coach
 - Milton Regulators Travel Baseball Coach
